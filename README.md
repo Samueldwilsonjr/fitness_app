@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 
-For any issues or inquiries, please contact us at [contact@example.com].
+For any issues or inquiries, please contact us at sdwjr@GMX.com.
 
 Thank you for using the Optional Fitness App! Stay healthy and keep working towards your fitness goals.
 
